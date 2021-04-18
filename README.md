@@ -12,5 +12,5 @@ Dans chaque dossier, vous trouverez un dossier par chant, puis dans le dossier d
 ## Logiciel
 Pour ouvrir les fichiers .mscz, vous devrez utiliser MuseScore 3 (gratuit et open-source), que vous pouvez télécherger ici : https://musescore.org/fr
 
-##contribution
+## Contribution
 Si vous souhaitez contribuer, ecrivez 
